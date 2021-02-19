@@ -1,3 +1,17 @@
 body{
     background-color: #161616;
 }
+
+.titre{
+    color: #eb4034;
+    margin-left: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.titre2{
+    color: #2daacc;
+    margin-left: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
