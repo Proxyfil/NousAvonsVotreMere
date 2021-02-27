@@ -33,9 +33,6 @@ footer{
 .is-white{
     color: #ffffff;
 }
-.is-inline{
-    display: inline;
-}
 .buttons{
     margin-right: 10px;
     width: fit-content;
@@ -89,4 +86,54 @@ footer{
 }
 .is-img-hide{
     opacity: 0%;
+}
+.is-bg-yellow{
+    background-color:  yellow;
+    width: 100px;
+    height: 100px;
+}
+.is-float-left{
+    float: left;
+}
+.is-bg-red{
+    background-color:  #e42113;
+    width: 100px;
+    height: 100px;
+}
+.is-bg-blue{
+    background-color:  blue;
+    width: 100px;
+    height: 100px;
+}
+.is-bg-purple{
+    background-color:  purple;
+    width: 100px;
+    height: 100px;
+}
+.is-bg-brown{
+    background-color:  brown;
+    width: 100px;
+    height: 100px;
+}
+.is-bg-pink{
+    background-color:  pink;
+    width: 100px;
+    height: 100px;
+}
+.is-hiden-hover{
+    opacity: 0;
+}
+.is-hiden-hover:hover{
+    opacity: 1;
+    cursor: default;
+}
+.is-answer-button{
+    float: right;
+    margin-right: 10px;
+    width: 150px;
+    height: 50px;
+    border: 0px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-size: 20px;
 }
